@@ -1,0 +1,13 @@
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\bin\Debug\netcoreapp3.1\Ciudades_fase4.exe
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\bin\Debug\netcoreapp3.1\Ciudades_fase4.deps.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\bin\Debug\netcoreapp3.1\Ciudades_fase4.runtimeconfig.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\bin\Debug\netcoreapp3.1\Ciudades_fase4.runtimeconfig.dev.json
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\bin\Debug\netcoreapp3.1\Ciudades_fase4.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\bin\Debug\netcoreapp3.1\Ciudades_fase4.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\obj\Debug\netcoreapp3.1\Ciudades_fase4.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\obj\Debug\netcoreapp3.1\Ciudades_fase4.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\obj\Debug\netcoreapp3.1\Ciudades_fase4.AssemblyInfoInputs.cache
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\obj\Debug\netcoreapp3.1\Ciudades_fase4.AssemblyInfo.cs
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\obj\Debug\netcoreapp3.1\Ciudades_fase4.dll
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\obj\Debug\netcoreapp3.1\Ciudades_fase4.pdb
+C:\Users\Marc\Desktop\IT Academy\.NET\Ciudades\Ciudades_fase4\Ciudades_fase4\obj\Debug\netcoreapp3.1\Ciudades_fase4.genruntimeconfig.cache
